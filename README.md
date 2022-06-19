@@ -1,4 +1,4 @@
-# BankCreditSystems
+# Bank Credit System
 
 It is a desktop application of the credit withdrawal system used in banks, created with java swing.
 
